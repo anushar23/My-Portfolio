@@ -42,7 +42,7 @@ a{
 
 .scrolled{
 /*  background-color:black;
-*/  background:url('C:/Users/ANUSHA/Downloads/luca-bravo-207676-unsplash.jpg') no-repeat;
+*/  background:url('luca-bravo-207676-unsplash.jpg') no-repeat;
 
 }
 
@@ -50,7 +50,7 @@ a{
 /*  padding-top:20%;
 */  
 padding-top: 200px;
-background:url('C:/Users/ANUSHA/Downloads/luca-bravo-207676-unsplash.jpg') no-repeat;
+background:url('luca-bravo-207676-unsplash.jpg') no-repeat;
 background-size: 100% 100%;
   /*background-color: #e0ebe8;*/
   height:100vh;
